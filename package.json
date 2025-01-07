@@ -1,0 +1,22 @@
+{
+  "name": "react-namaste",
+  "version": "1.0.0",
+  "description": "namaste react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koyyana-rahul/namaste-react.git"
+  },
+  "author": "rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koyyana-rahul/namaste-react/issues"
+  },
+  "homepage": "https://github.com/koyyana-rahul/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
