@@ -10,11 +10,11 @@
 56C:\Users\RAHUL\OneDrive\Desktop\react-namaste\.gitignore133807469006990577 0
 92C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@parcel\runtime-react-refresh\lib133807475264898438 1
 96C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\postcss-value-parser\lib\stringify.js133807467147507567 0
-52C:\Users\RAHUL\OneDrive\Desktop\react-namaste\app.js133807490873659264 0
+52C:\Users\RAHUL\OneDrive\Desktop\react-namaste\app.js133808005263398018 0
 84C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@parcel\utils\src\blob.js133807467150636845 0
 110C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@parcel\package-manager\src\MockPackageInstaller.js133807467154565596 0
 67C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\escalade133807475184599271 1
-50C:\Users\RAHUL\OneDrive\Desktop\react-namaste\dist133807490996169510 1
+50C:\Users\RAHUL\OneDrive\Desktop\react-namaste\dist133808005268287232 1
 71C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\js-yaml\dist133807475229878361 1
 66C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\is-json133807475188088514 1
 104C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\caniuse-lite\data\features\async-functions.js133807467157628283 0
@@ -56,7 +56,7 @@
 106C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\caniuse-lite\data\features\sharedarraybuffer.js133807467179852632 0
 91C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\update-browserslist-db\README.md133807467149951761 0
 99C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@swc\helpers\cjs\_async_to_generator.cjs133807467152030664 0
-55C:\Users\RAHUL\OneDrive\Desktop\react-namaste\README.md133807481188688884 0
+55C:\Users\RAHUL\OneDrive\Desktop\react-namaste\README.md133808016013707661 0
 104C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js133807467145463174 0
 79C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\json5\lib\parse.d.ts133807467154104743 0
 88C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\react-error-overlay\README.md133807467151366346 0
@@ -1304,7 +1304,7 @@
 79C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\is-arrayish\index.js133807467148232219 0
 107C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\posthtml\node_modules\htmlparser2\lib\index.d.ts133807467153295122 0
 115C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\posthtml\node_modules\htmlparser2\lib\Tokenizer.d.ts.map133807467152293178 0
-61C:\Users\RAHUL\OneDrive\Desktop\react-namaste\dist\index.html133807490993163189 0
+61C:\Users\RAHUL\OneDrive\Desktop\react-namaste\dist\index.html133808005268084863 0
 97C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\posthtml\node_modules\entities\LICENSE133807467144217554 0
 102C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\posthtml\node_modules\entities\package.json133807467152809828 0
 99C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\posthtml\node_modules\entities\readme.md133807467154611087 0
@@ -2732,7 +2732,7 @@
 90C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\caniuse-lite\data\regions\SL.js133807467179963705 0
 109C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\caniuse-lite\data\features\alternate-stylesheet.js133807467155164970 0
 90C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\caniuse-lite\data\regions\SO.js133807467180079885 0
-68C:\Users\RAHUL\OneDrive\Desktop\react-namaste\dist\index.5baa4167.js133807490992476254 0
+68C:\Users\RAHUL\OneDrive\Desktop\react-namaste\dist\index.5baa4167.js133808005268222069 0
 110C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\caniuse-lite\data\features\contentsecuritypolicy.js133807467162130225 0
 90C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\caniuse-lite\data\regions\SR.js133807467180205344 0
 115C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@parcel\package-manager\test\fixtures\empty\package.json133807467157064857 0
@@ -4019,7 +4019,7 @@
 83C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@parcel\packager-css\src133807475256619290 1
 101C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@parcel\core\test\PublicDependency.test.js133807467162774085 0
 98C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@parcel\packager-css\src\CSSPackager.js133807467147120569 0
-69C:\Users\RAHUL\OneDrive\Desktop\react-namaste\dist\index.9e4c6fd2.css133807490996037036 0
+69C:\Users\RAHUL\OneDrive\Desktop\react-namaste\dist\index.9e4c6fd2.css133808005267639083 0
 98C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@parcel\packager-css\lib\CSSPackager.js133807467145482769 0
 90C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@parcel\package-manager\LICENSE133807467144085694 0
 95C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@parcel\package-manager\package.json133807467156888531 0
@@ -4216,7 +4216,7 @@
 85C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@parcel\compressor-raw\lib133807475244936218 1
 89C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@parcel\compressor-raw\LICENSE133807467144044203 0
 102C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@parcel\compressor-raw\src\RawCompressor.js133807467146919682 0
-73C:\Users\RAHUL\OneDrive\Desktop\react-namaste\dist\index.9e4c6fd2.css.map133807490996149561 0
+73C:\Users\RAHUL\OneDrive\Desktop\react-namaste\dist\index.9e4c6fd2.css.map133808005267719194 0
 102C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@parcel\compressor-raw\lib\RawCompressor.js133807467145512886 0
 80C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@parcel\codeframe\lib133807475244163635 1
 89C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\@parcel\codeframe\package.json133807467156577413 0
@@ -4300,6 +4300,6 @@
 74C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\.bin\semver.ps1133807467185488941 0
 86C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\.bin\update-browserslist-db133807467185508963 0
 90C:\Users\RAHUL\OneDrive\Desktop\react-namaste\node_modules\.bin\update-browserslist-db.cmd133807467185498920 0
-72C:\Users\RAHUL\OneDrive\Desktop\react-namaste\dist\index.5baa4167.js.map133807490992652850 0
+72C:\Users\RAHUL\OneDrive\Desktop\react-namaste\dist\index.5baa4167.js.map133808005268287232 0
 68C:\Users\RAHUL\OneDrive\Desktop\react-namaste\dist\index.7c0ccee6.js133807483852477224 0
 80C:\Users\RAHUL\OneDrive\Desktop\react-namaste\dist\react-namaste.3464ddca.js.map133807483852641974 0

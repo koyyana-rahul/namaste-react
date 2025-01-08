@@ -2957,7 +2957,7 @@ const heading = /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
         id: "child"
     }, [
         /*#__PURE__*/ (0, _reactDefault.default).createElement("h1", {}, "hello react from h1"),
-        /*#__PURE__*/ (0, _reactDefault.default).createElement("h2", {}, "hello react from h2")
+        /*#__PURE__*/ (0, _reactDefault.default).createElement("h2", {}, "hi  some thing is happening")
     ]),
     /*#__PURE__*/ (0, _reactDefault.default).createElement("div", {
         id: "child2"

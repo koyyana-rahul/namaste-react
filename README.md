@@ -1,6 +1,6 @@
 # Namaste React
 
-- github:- 
+# github:- 
 - 1) git init => to initialize git repository
 - 2) git branch -M main -> main as a default branch
 - 3) git add .
@@ -12,7 +12,7 @@
 
 
 
-- npm
+# npm
 
 -  npm init => initialize package managers
 -  npm install parcel => to make production code to be small we have to use parcel bundler.
@@ -37,4 +37,21 @@
 
 
 
-         
+# Parcel (it is a manager of all libraries)
+- Dev build
+- Local server
+- HMR - HOT MODULE REPLACEMENT
+- file watching algorithm- written in c++
+- Faster Builds by caching things
+- Image Optimization
+- Minification
+- Bundling
+- compress
+- consistent Hashing - make experience super fast
+- code splitting
+- differential Bundling - to support older browsers
+- Diagnostics
+- Error Handling
+- HTTPs
+- Tree Shaking algorithm - remove unused code 
+- Different dev and prod bundles

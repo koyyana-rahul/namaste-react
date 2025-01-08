@@ -48,7 +48,7 @@ const heading = React.createElement(
           React.createElement(
                "h2",
                {},
-               "hello react from h2"
+               "hi  some thing is happening"
           )]
      ),
      React.createElement(
