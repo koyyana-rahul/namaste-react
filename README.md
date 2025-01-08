@@ -55,3 +55,8 @@
 - HTTPs
 - Tree Shaking algorithm - remove unused code 
 - Different dev and prod bundles
+
+# Build parcel 
+
+- why build to make code compressed ,minification and caching only we have to use two folders parcel-cache and dist for that purpose we have to build parcel
+- npx parcel build index.html => to execute this we have to remove main:"app.js" from package .json

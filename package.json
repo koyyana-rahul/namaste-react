@@ -2,7 +2,7 @@
   "name": "react-namaste",
   "version": "1.0.0",
   "description": "namaste react",
-  "main": "app.js",
+  
   "scripts": {
     "test": "jest"
   },
