@@ -60,3 +60,11 @@
 
 - why build to make code compressed ,minification and caching only we have to use two folders parcel-cache and dist for that purpose we have to build parcel
 - npx parcel build index.html => to execute this we have to remove main:"app.js" from package .json
+
+# Browserslist 
+
+- "browserslist": [
+    "last 3 versions"
+  ]
+
+- to accept to run the website in the last 3 version browsers
